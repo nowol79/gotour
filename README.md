@@ -1,0 +1,2 @@
+# gotour
+go package
